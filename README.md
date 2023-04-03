@@ -52,7 +52,7 @@ JAVASCRIPT
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://henarykhuraijam.github.io/bookList/)
+- [Live Demo Link]( https://kayembajonathan.github.io/Awesome_book/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
